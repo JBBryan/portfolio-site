@@ -412,6 +412,12 @@ a:hover {
 #about .social-icons .icon-linkedin:hover {
   background: #df5757 url('../img/icon-linked-white.png') center center no-repeat;
 }
+#about .social-icons .icon-resume {
+  background: #ffffff url('../img/icon-resume-red.png') center center no-repeat;
+}
+#about .social-icons .icon-resume:hover {
+  background: #df5757 url('../img/icon-resume-white.png') center center no-repeat;
+}
 
 
 /* ==========================================================================
